@@ -12,4 +12,4 @@ This is an interactive dashboard of an olympic analysis and it consist of many g
 
 -> Adv Python
 -> Numpy, Pandas, Matplot
--> streamlit
+-> streamlit 
